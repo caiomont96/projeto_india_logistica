@@ -24,7 +24,11 @@ st.write("# Dashboard Marketplace de entregas")
 
 st.markdown(
     """
-    Este Growth Dashboard foi construída para acompanhar as métricas de um aplicativo de entrega de comida na índia
+    Este Growth Dashboard foi construído para acompanhar as métricas de um aplicativo de entrega de comida na índia
+    
+    ## Visualização
+    - Para uma melhor experiência visualização é recomendado clicar no menu do canto superior direito  >  settings  >  theme: alterar para dark
+    
     ## Como utilizar esse Growth Dashboard?
     - Visão Empresa:
         - Visão Gerencial
@@ -35,6 +39,5 @@ st.markdown(
     - Visão Restaurante:
         - Indicadores semanais de crescimento dos restaurantes
         
-    ## Visualização
-    - Para uma melhor experiência visualização é recomendado clicar no menu do canto superior direito  >  settings  >  theme: alterar para dark  
+      
     """)
