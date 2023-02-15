@@ -27,7 +27,7 @@ st.markdown(
     Este Growth Dashboard foi construído para acompanhar as métricas de um aplicativo de entrega de comida na índia
     
     ## Visualização
-    - Para uma melhor experiência visualização é recomendado clicar no menu do canto superior direito  >  settings  >  theme: alterar para dark
+    - Para uma melhor experiência de visualização, é recomendado clicar no menu do canto superior direito  >  settings  >  theme: alterar para dark
     
     ## Como utilizar esse Growth Dashboard?
     - Visão Empresa:
